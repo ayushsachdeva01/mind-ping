@@ -241,10 +241,59 @@
   },
   {
     "versions": [
-      "Write about K₂Cr₂O₇ with respect to:\n(i) Cr–O–Cr bond angle, (ii) Structure and Color, \n(iii) reaction on heating, \n(iv) effect of increase/decrease in pH, \n(v) Uses\n(vi) why K₂Cr₂O₇ is preferred over Na₂Cr₂O₇.\n(vii) Eq weight in Acidic Medium"
+      "What is the Cr–O–Cr bond angle in K₂Cr₂O₇?",
+      "State the Cr–O–Cr bond angle in potassium dichromate."
     ],
     "group": "D Block",
-    "answer": "● (i) Cr–O–Cr bond angle: 126°\n● (ii) Structure: Two CrO₄ tetrahedra sharing one O atom, Orange\n● (iii) On heating:\n4K₂Cr₂O₇ → 4K₂CrO₄ + 2Cr₂O₃ + 3O₂\n● (iv) Increase in pH:\nCr₂O₇²⁻ + 2OH⁻ → 2CrO₄²⁻ + H₂O\nOrange → Yellow\nDecrease in pH:\n2CrO₄²⁻ + 2H⁺ → Cr₂O₇²⁻ + H₂O\nYellow → Orange\n● (v) Uses: Strong oxidising agent, volumetric analysis, leather tanning and preparation of chrome alum, Modrant in dyes.\n● (vi) Why not Na₂Cr₂O₇?: K₂Cr₂O₇ is less soluble and easily crystallised in pure form, while Na₂Cr₂O₇ is highly soluble and deliquescent.\n● 294 / 6 = 49g"
+    "answer": "126°"
+  },
+  {
+    "versions": [
+      "What is the structure and color of K₂Cr₂O₇?",
+      "Describe the structure and color of potassium dichromate."
+    ],
+    "group": "D Block",
+    "answer": "● Structure: Two CrO₄ tetrahedra sharing one O atom\n● Color: Orange"
+  },
+  {
+    "versions": [
+      "What happens when K₂Cr₂O₇ is heated?",
+      "Write the reaction of potassium dichromate on heating."
+    ],
+    "group": "D Block",
+    "answer": "4K₂Cr₂O₇ → 4K₂CrO₄ + 2Cr₂O₃ + 3O₂"
+  },
+  {
+    "versions": [
+      "What is the effect of increase or decrease in pH on dichromate/chromate equilibrium?",
+      "How does pH affect the conversion between Cr₂O₇²⁻ and CrO₄²⁻?"
+    ],
+    "group": "D Block",
+    "answer": "● Increase in pH:\nCr₂O₇²⁻ + 2OH⁻ → 2CrO₄²⁻ + H₂O\nOrange → Yellow\n● Decrease in pH:\n2CrO₄²⁻ + 2H⁺ → Cr₂O₇²⁻ + H₂O\nYellow → Orange"
+  },
+  {
+    "versions": [
+      "What are the uses of K₂Cr₂O₇?",
+      "State the uses of potassium dichromate."
+    ],
+    "group": "D Block",
+    "answer": "Strong oxidising agent, volumetric analysis, leather tanning and preparation of chrome alum, Modrant in dyes."
+  },
+  {
+    "versions": [
+      "Why is K₂Cr₂O₇ preferred over Na₂Cr₂O₇?",
+      "Why is potassium dichromate preferred over sodium dichromate?"
+    ],
+    "group": "D Block",
+    "answer": "K₂Cr₂O₇ is less soluble and easily crystallised in pure form, while Na₂Cr₂O₇ is highly soluble and deliquescent."
+  },
+  {
+    "versions": [
+      "What is the equivalent weight of K₂Cr₂O₇ in acidic medium?",
+      "Calculate the equivalent weight of potassium dichromate in acidic medium."
+    ],
+    "group": "D Block",
+    "answer": "294 / 6 = 49g"
   },
   {
     "versions": [
@@ -262,10 +311,59 @@
   },
   {
     "versions": [
-      "Write about KMnO₄ with respect to:\n(i) Structure of MnO₄⁻ and Color,\n(ii) Reaction on heating,\n(iii) Effect of acidic, basic and neutral medium,\n(iv) Uses,\n(v) Equivalent weight in acidic medium,\n(vi) Equivalent weight in basic medium,\n(vii) Equivalent weight in neutral medium."
+      "What is the structure and color of MnO₄⁻?",
+      "Describe the structure and color of permanganate ion."
     ],
     "group": "D Block",
-    "answer": "● (i) Structure: MnO₄⁻ has tetrahedral structure, Violet\n● (ii) On heating:\n2KMnO₄ → K₂MnO₄ + MnO₂ + O₂\n● (iii) Acidic medium:\nMnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O\nBasic medium:\nMnO₄⁻ + e⁻ → MnO₄²⁻\nNeutral medium:\nMnO₄⁻ + 2H₂O + 3e⁻ → MnO₂ + 4OH⁻\n● (iv) Uses: Strong oxidising agent, disinfectant, water treatment and volumetric analysis, Bayer's Reagent.\n● (v) Eq. weight in acidic medium = M/5\n● (vi) Eq. weight in basic medium = M/1 = M\n● (vii) Eq. weight in neutral medium = M/3\nM = 158g"
+    "answer": "● Structure: MnO₄⁻ has tetrahedral structure\n● Color: Violet"
+  },
+  {
+    "versions": [
+      "What happens when KMnO₄ is heated?",
+      "Write the reaction of potassium permanganate on heating."
+    ],
+    "group": "D Block",
+    "answer": "2KMnO₄ → K₂MnO₄ + MnO₂ + O₂"
+  },
+  {
+    "versions": [
+      "How does KMnO₄ react in acidic, basic and neutral medium?",
+      "Write the reduction half-reactions of MnO₄⁻ in acidic, basic and neutral medium."
+    ],
+    "group": "D Block",
+    "answer": "● Acidic medium:\nMnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O\n● Basic medium:\nMnO₄⁻ + e⁻ → MnO₄²⁻\n● Neutral medium:\nMnO₄⁻ + 2H₂O + 3e⁻ → MnO₂ + 4OH⁻"
+  },
+  {
+    "versions": [
+      "What are the uses of KMnO₄?",
+      "State the uses of potassium permanganate."
+    ],
+    "group": "D Block",
+    "answer": "Strong oxidising agent, disinfectant, water treatment and volumetric analysis, Bayer's Reagent."
+  },
+  {
+    "versions": [
+      "What is the equivalent weight of KMnO₄ in acidic medium?",
+      "Calculate the equivalent weight of potassium permanganate in acidic medium."
+    ],
+    "group": "D Block",
+    "answer": "M/5 = 158/5"
+  },
+  {
+    "versions": [
+      "What is the equivalent weight of KMnO₄ in basic medium?",
+      "Calculate the equivalent weight of potassium permanganate in basic medium."
+    ],
+    "group": "D Block",
+    "answer": "M/1 = M = 158g"
+  },
+  {
+    "versions": [
+      "What is the equivalent weight of KMnO₄ in neutral medium?",
+      "Calculate the equivalent weight of potassium permanganate in neutral medium."
+    ],
+    "group": "D Block",
+    "answer": "M/3 = 158/3"
   },
   {
     "versions": [
