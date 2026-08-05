@@ -15,31 +15,73 @@
   },
   {
     "versions": [
-      "i) General EC of F block\nii) Most stable Oxidation State of F Block\niii) Start and End elements with At No. of 4f and 5f series."
+      "What is the general electronic configuration of F block?"
     ],
     "group": "F Block",
-    "answer": "● (i) General EC: (n−2)f¹⁻¹⁴ (n−1)d⁰⁻¹ ns²\n● (ii) Most stable oxidation state: +3\n● (iii) 4f Series: Ce (58) to Lu (71) | 5f Series: Th (90) to Lr (103)"
+    "answer": "(n−2)f¹⁻¹⁴ (n−1)d⁰⁻¹ ns²"
   },
   {
     "versions": [
-      "Explain the variation in size of Lanthanoids and Actinoids.\nExplain the variation in size of tripositive ions of Lanthanoids and Actinoids\nWhich has a greater effect, Lanthanoid or Actinoid Contraction"
+      "What is the most stable oxidation state of F Block?"
     ],
     "group": "F Block",
-    "answer": "● Lanthanoids: Size gradually decreases from La → Lu due to Lanthanoid Contraction EXCEPT Eu -> largest size (no confirmed reason)\n● Actinoids: Size gradually decreases from Ac → Lr due to Actinoid Contraction.\n● Ln³⁺: Ionic size regularly decreases from La³⁺ → Lu³⁺ due to Lanthanoid Contraction.\n● An³⁺: Ionic size regularly decreases from Ac³⁺ → Lr³⁺ due to Actinoid Contraction.\n● Actinoid Contraction > Lanthanoid Contraction due to poorer shielding of 5f electrons."
+    "answer": "+3"
   },
   {
     "versions": [
-      "i) Name all the man-made (synthetic) elements of the periodic table.\nii) Hardest element in 4f series"
+      "State the start and end elements with atomic numbers of the 4f and 5f series."
     ],
     "group": "F Block",
-    "answer": "i) ● Tc (43) – 4d series\n● Pm (61) – 4f series\n● Transuranic elements – All elements after Uranium (Z > 92)\n\nii) Sm(Samarium) 4f"
+    "answer": "4f Series: Ce (58) to Lu (71) | 5f Series: Th (90) to Lr (103)"
   },
   {
     "versions": [
-      "i) Properties of Lanthanoids\nii) Uses of Lanthanoids.\nii) Which elements of Lanthanoids show +4."
+      "Explain the variation in size of Lanthanoids and Actinoids."
     ],
     "group": "F Block",
-    "answer": "● (i) Properties: Silvery-white, soft metals, tarnish rapidly, generally show +3 oxidation state, form coloured and paramagnetic ions.\n● (ii) Uses in Alloys: Mischmetal contains ~95% lanthanoids + ~5% Fe; used in lighter flints and Mg-based alloys, Petroleum Cracking, Flourescent in TVs.\n● (iii) +4 Oxidation State: Ce, Pr, Nd, Tb, Dy. (MO₂)"
+    "answer": "● Lanthanoids: Size gradually decreases from La → Lu due to Lanthanoid Contraction EXCEPT Eu -> largest size (no confirmed reason)\n● Actinoids: Size gradually decreases from Ac → Lr due to Actinoid Contraction."
+  },
+  {
+    "versions": [
+      "Explain the variation in size of tripositive ions of Lanthanoids and Actinoids."
+    ],
+    "group": "F Block",
+    "answer": "● Ln³⁺: Ionic size regularly decreases from La³⁺ → Lu³⁺ due to Lanthanoid Contraction.\n● An³⁺: Ionic size regularly decreases from Ac³⁺ → Lr³⁺ due to Actinoid Contraction."
+  },
+  {
+    "versions": [
+      "Name all the man-made (synthetic) elements of the periodic table."
+    ],
+    "group": "F Block",
+    "answer": "● Tc (43) – 4d series\n● Pm (61) – 4f series\n● Transuranic elements – All elements after Uranium (Z > 92)"
+  },
+  {
+    "versions": [
+      "Which is the hardest element in the 4f series?"
+    ],
+    "group": "F Block",
+    "answer": "Sm (Samarium)"
+  },
+  {
+    "versions": [
+      "What are the properties of Lanthanoids?"
+    ],
+    "group": "F Block",
+    "answer": "Silvery-white, soft metals, tarnish rapidly, generally show +3 oxidation state, form coloured and paramagnetic ions."
+  },
+  {
+    "versions": [
+      "What are the uses of Lanthanoids?"
+    ],
+    "group": "F Block",
+    "answer": "● Mischmetal contains ~95% lanthanoids + ~5% Fe; used in lighter flints and Mg-based alloys.\n● Petroleum Cracking\n● Flourescent in TVs."
+  },
+  {
+    "versions": [
+      "Which Lanthanoids show +4 oxidation state?"
+    ],
+    "group": "F Block",
+    "answer": "Ce, Pr, Nd, Tb, Dy. (MO₂)"
   },
   {
     "versions": [
