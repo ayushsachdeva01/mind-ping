@@ -343,27 +343,11 @@
   },
   {
     "versions": [
-      "What is the equivalent weight of KMnO₄ in acidic medium?",
+      "What is the equivalent weight of KMnO₄ in acidic, basic, neutral medium?",
       "Calculate the equivalent weight of potassium permanganate in acidic medium."
     ],
     "group": "D Block",
-    "answer": "M/5 = 158/5"
-  },
-  {
-    "versions": [
-      "What is the equivalent weight of KMnO₄ in basic medium?",
-      "Calculate the equivalent weight of potassium permanganate in basic medium."
-    ],
-    "group": "D Block",
-    "answer": "M/1 = M = 158g"
-  },
-  {
-    "versions": [
-      "What is the equivalent weight of KMnO₄ in neutral medium?",
-      "Calculate the equivalent weight of potassium permanganate in neutral medium."
-    ],
-    "group": "D Block",
-    "answer": "M/3 = 158/3"
+    "answer": "● Acidic: M/5 = 158/5g\n● Basic: M/1 = 158g\n● Neutral: M/3 = 158/3"
   },
   {
     "versions": [
