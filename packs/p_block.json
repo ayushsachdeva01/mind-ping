@@ -15,10 +15,17 @@
   },
   {
     "versions": [
-      "Write the increasing order of Atomic Size of Group 13 elements and M³⁺ ions of Group 13."
+      "Write the increasing order of Atomic Size of Group 13 elements."
     ],
     "group": "P Block",
-    "answer": "● B < Ga < Al < In < Tl\n● B³⁺ < Al³⁺ < Ga³⁺ < In³⁺ < Tl³⁺"
+    "answer": "B < Ga < Al < In < Tl"
+  },
+  {
+    "versions": [
+      "Write the increasing order of size of M³⁺ ions of Group 13."
+    ],
+    "group": "P Block",
+    "answer": "B³⁺ < Al³⁺ < Ga³⁺ < In³⁺ < Tl³⁺"
   },
   {
     "versions": [
@@ -43,10 +50,17 @@
   },
   {
     "versions": [
-      "● Explain the structure of Diborane (B₂H₆) with bond lengths and bond angles.\n● Explain the structure and formation of AlCl₃ and compare its nature with AlF₃."
+      "Explain the structure of Diborane (B₂H₆) with bond lengths and bond angles."
     ],
     "group": "P Block",
-    "answer": "● Diborane: B₂H₆ has 4 terminal B–H bonds and 2 bridging B–H–B bonds. Terminal B–H = 119 pm, bridge B–H = 134 pm; ∠H–B–H ≈ 120°, ∠B–H–B ≈ 97°. The two bridge bonds are 3-centre-2-electron (3c–2e) bonds.\n● AlCl₃: 2AlCl₃ → Al₂Cl₆, AlCl₃,\n Al₂O₃ + C + Cl₂ → Al₂Cl₆ + CO (Reductive Chlorination)\nforms a dimer with two bridging Cl atoms. AlCl₃ is covalent due to high polarising power of Al³⁺, whereas AlF₃ is predominantly ionic."
+    "answer": "● Diborane: B₂H₆ has 4 terminal B–H bonds and 2 bridging B–H–B bonds.\n● Terminal B–H = 119 pm, bridge B–H = 134 pm\n● ∠H–B–H ≈ 120°, ∠B–H–B ≈ 97°\n● The two bridge bonds are 3-centre-2-electron (3c–2e) bonds."
+  },
+  {
+    "versions": [
+      "Explain the structure and formation of AlCl₃ and compare its nature with AlF₃."
+    ],
+    "group": "P Block",
+    "answer": "● 2AlCl₃ → Al₂Cl₆\n● Al₂O₃ + C + Cl₂ → Al₂Cl₆ + CO (Reductive Chlorination)\n● AlCl₃ forms a dimer with two bridging Cl atoms.\n● AlCl₃ is covalent due to high polarising power of Al³⁺, whereas AlF₃ is predominantly ionic."
   },
   {
     "versions": [
@@ -57,10 +71,45 @@
   },
   {
     "versions": [
-      "● Explain the reactivity of Group 13 elements towards air, N₂ and halogens (X₂). Also explain Back Bonding.\n● Explain the nature of oxides of Group 13 elements.\n● Write the properties and structure of Boric Acid (H₃BO₃)."
+      "Explain the reactivity of Group 13 elements towards air."
     ],
     "group": "P Block",
-    "answer": "● Air: 4M + 3O₂ → 2M₂O₃; B is unreactive in crystalline form(reacts in amorphous) and Al forms a protective Al₂O₃ layer(reacts if layer removed), Ga, In(No reaction) \nN₂: 2M + N₂ → 2MN. B(Heating) Al, Ga, In (Strong Heating) Tl(No Rexn)\nHalogens: 2M + 3X₂ → 2MX₃.\n● Backbonding: BF₃ > BCl₃ > BBr₃ > BI₃\nAcidic Nature: BF₃ < BCl₃ < BBr₃ < BI₃\nBack bonding provides e⁻ to B, making it less acidic\n● Oxides: B₂O₃ is acidic; Al₂O₃ and Ga₂O₃ are amphoteric; In₂O₃ and Tl₂O₃ are basic. Basic character increases down the group.\n● Boric Acid: H₃BO₃ or B(OH)₃ is a weak monobasic Lewis acid. \nIt has 3 OH connected to one Boron. \nB(OH)₃ + 2H₂O ⇌ [B(OH)₄]⁻ + H₃O⁺(Non Protic Acid).\nSolid at Room Temp => Hydrogen Bonding"
+    "answer": "● 4M + 3O₂ → 2M₂O₃\n● B is unreactive in crystalline form (reacts in amorphous form).\n● Al forms a protective Al₂O₃ layer (reacts if layer is removed).\n● Ga, In: No reaction."
+  },
+  {
+    "versions": [
+      "Explain the reactivity of Group 13 elements towards N₂."
+    ],
+    "group": "P Block",
+    "answer": "● 2M + N₂ → 2MN\n● B: Heating\n● Al, Ga, In: Strong Heating\n● Tl: No Reaction"
+  },
+  {
+    "versions": [
+      "Explain the reactivity of Group 13 elements towards halogens (X₂)."
+    ],
+    "group": "P Block",
+    "answer": "2M + 3X₂ → 2MX₃"
+  },
+  {
+    "versions": [
+      "Explain Back Bonding in Group 13 halides and its effect on acidic nature."
+    ],
+    "group": "P Block",
+    "answer": "● Backbonding: BF₃ > BCl₃ > BBr₃ > BI₃\n● Acidic Nature: BF₃ < BCl₃ < BBr₃ < BI₃\n● Back bonding provides e⁻ to B, making it less acidic."
+  },
+  {
+    "versions": [
+      "Explain the nature of oxides of Group 13 elements."
+    ],
+    "group": "P Block",
+    "answer": "● B₂O₃ is acidic.\n● Al₂O₃ and Ga₂O₃ are amphoteric.\n● In₂O₃ and Tl₂O₃ are basic.\n● Basic character increases down the group."
+  },
+  {
+    "versions": [
+      "Write the properties and structure of Boric Acid (H₃BO₃)."
+    ],
+    "group": "P Block",
+    "answer": "● H₃BO₃ or B(OH)₃ is a weak monobasic Lewis acid.\n● It has 3 OH connected to one Boron.\n● B(OH)₃ + 2H₂O ⇌ [B(OH)₄]⁻ + H₃O⁺ (Non Protic Acid).\n● Solid at Room Temp => Hydrogen Bonding"
   },
   {
     "versions": [
